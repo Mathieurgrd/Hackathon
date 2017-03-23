@@ -1,4 +1,4 @@
-package com.hoho.android.usbserial;
+package com.example.mathieu.hackathon.usbserial;
 
 /**
  * Static container of information about this library.
